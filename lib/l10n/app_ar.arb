@@ -1,0 +1,306 @@
+{
+  "@@locale": "ar",
+  
+  "appTitle": "مباريات كرة القدم",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  
+  "home": "الرئيسية",
+  "@home": {
+    "description": "Home screen title"
+  },
+  
+  "noItemsFound": "لا توجد عناصر",
+  "@noItemsFound": {
+    "description": "Message shown when there are no items to display"
+  },
+  
+  "error": "خطأ",
+  "@error": {
+    "description": "Generic error message"
+  },
+  
+  "retry": "أعد المحاولة",
+  "@retry": {
+    "description": "Button text to retry an action"
+  },
+  
+  "loading": "جارٍ التحميل...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  
+  "ok": "موافق",
+  "@ok": {
+    "description": "OK button text"
+  },
+  
+  "save": "حفظ",
+  "@save": {
+    "description": "Save button text"
+  },
+  
+  "delete": "حذف",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  
+  "edit": "تعديل",
+  "@edit": {
+    "description": "Edit button text"
+  },
+  
+  "add": "إضافة",
+  "@add": {
+    "description": "Add button text"
+  },
+  
+  "active": "نشط",
+  "@active": {
+    "description": "Active status"
+  },
+  
+  "inactive": "غير نشط",
+  "@inactive": {
+    "description": "Inactive status"
+  },
+  
+  "justNow": "الآن",
+  "@justNow": {
+    "description": "Time indicator for very recent activity"
+  },
+  
+  "minutesAgo": "منذ {count} دقائق",
+  "@minutesAgo": {
+    "description": "Time indicator for activity that happened minutes ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  
+  "hoursAgo": "منذ {count} ساعات",
+  "@hoursAgo": {
+    "description": "Time indicator for activity that happened hours ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  
+  "daysAgo": "منذ {count} أيام",
+  "@daysAgo": {
+    "description": "Time indicator for activity that happened days ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  
+  "emailRequired": "البريد الإلكتروني مطلوب",
+  "@emailRequired": {
+    "description": "Validation message for required email field"
+  },
+  
+  "passwordRequired": "كلمة المرور مطلوبة",
+  "@passwordRequired": {
+    "description": "Validation message for required password field"
+  },
+  
+  "invalidEmail": "يرجى إدخال بريد إلكتروني صالح",
+  "@invalidEmail": {
+    "description": "Validation message for invalid email format"
+  },
+  
+  "passwordTooShort": "كلمة المرور يجب أن تكون 8 أحرف على الأقل",
+  "@passwordTooShort": {
+    "description": "Validation message for password length"
+  },
+  
+  "fieldRequired": "{fieldName} مطلوب",
+  "@fieldRequired": {
+    "description": "Generic validation message for required fields",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "الاسم"
+      }
+    }
+  },
+  
+  "refreshList": "تحديث القائمة",
+  "@refreshList": {
+    "description": "Tooltip for refresh button"
+  },
+  
+  "addItem": "إضافة عنصر جديد",
+  "@addItem": {
+    "description": "Tooltip for add button"
+  },
+  
+  "networkError": "لا يوجد اتصال بالإنترنت",
+  "@networkError": {
+    "description": "Error message for network connectivity issues"
+  },
+  
+  "serverError": "حدث خطأ في الخادم",
+  "@serverError": {
+    "description": "Error message for server issues"
+  },
+  
+  "unexpectedError": "حدث خطأ غير متوقع",
+  "@unexpectedError": {
+    "description": "Generic error message for unexpected errors"
+  },
+  
+  "refresh": "تحديث",
+  "@refresh": {
+    "description": "Refresh button text"
+  },
+  
+  "yesterday": "أمس",
+  "@yesterday": {
+    "description": "Yesterday tab label"
+  },
+  
+  "today": "اليوم",
+  "@today": {
+    "description": "Today tab label"
+  },
+  
+  "tomorrow": "غداً",
+  "@tomorrow": {
+    "description": "Tomorrow tab label"
+  },
+  
+  "noMatches": "لا توجد مباريات متاحة",
+  "@noMatches": {
+    "description": "Message shown when there are no matches to display"
+  },
+  
+  "errorOccurred": "حدث خطأ ما",
+  "@errorOccurred": {
+    "description": "Generic error title"
+  },
+  
+  "matches": "المباريات",
+  "@matches": {
+    "description": "Matches page title"
+  },
+  
+  "liveMatches": "المباريات المباشرة",
+  "@liveMatches": {
+    "description": "Live matches section title"
+  },
+  
+  "upcomingMatches": "المباريات القادمة",
+  "@upcomingMatches": {
+    "description": "Upcoming matches section title"
+  },
+  
+  "pastMatches": "المباريات السابقة",
+  "@pastMatches": {
+    "description": "Past matches section title"
+  },
+  
+  "liveUpdates": "التحديثات المباشرة",
+  "@liveUpdates": {
+    "description": "Live updates section title"
+  },
+  
+  "offline": "غير متصل",
+  "@offline": {
+    "description": "Offline status"
+  },
+  
+  "venue": "الملعب",
+  "@venue": {
+    "description": "Venue field label"
+  },
+  
+  "matchWeek": "جولة المباراة",
+  "@matchWeek": {
+    "description": "Match week field label"
+  },
+  
+  "fullTime": "الوقت الكامل",
+  "@fullTime": {
+    "description": "Full time field label"
+  },
+  
+  "halftimeScore": "الشوط الأول",
+  "@halftimeScore": {
+    "description": "Halftime score field label"
+  },
+  
+  "penalties": "ركلات الترجيح",
+  "@penalties": {
+    "description": "Penalties field label"
+  },
+  
+  "extraTime": "الوقت الإضافي",
+  "@extraTime": {
+    "description": "Extra time field label"
+  },
+  
+  "postponed": "مؤجلة",
+  "@postponed": {
+    "description": "Postponed status"
+  },
+  
+  "cancelled": "ملغية",
+  "@cancelled": {
+    "description": "Cancelled status"
+  },
+  
+  "scheduled": "مجدولة",
+  "@scheduled": {
+    "description": "Scheduled status"
+  },
+  
+  "kickoff": "انطلاق المباراة",
+  "@kickoff": {
+    "description": "Kickoff field label"
+  },
+  
+  "minute": "دقيقة",
+  "@minute": {
+    "description": "Minute field label"
+  },
+  
+  "live": "LIVE",
+  "@live": {
+    "description": "Live status"
+  },
+  
+  "versus": "ضـد",
+
+  "matchStatusAbnormal": "خطأ",
+  "matchStatusNotStarted": "لم تبدأ",
+  "matchStatusFirstHalf": "الشوط الأول",
+  "matchStatusFirstHalfWithMinute": "الشوط الأول {minute}'",
+  "matchStatusHalfTime": "فترة الراحة",
+  "matchStatusSecondHalf": "الشوط الثاني",
+  "matchStatusSecondHalfWithMinute": "الشوط الثاني {minute}'",
+  "matchStatusOvertime": "الوقت الإضافي",
+  "matchStatusOvertimeWithMinute": "وإ {minute}'",
+  "matchStatusPenaltyShootout": "ضربات ترجيح",
+  "matchStatusFinished": "انتهت",
+  "matchStatusDelayed": "مؤجلة",
+  "matchStatusInterrupted": "متوقفة",
+  "matchStatusCutInHalf": "مُلغاة",
+  "matchStatusCancelled": "ملغية",
+  "matchStatusToBeDetermined": "لم تحدد بعد"
+} 

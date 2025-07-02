@@ -1,0 +1,106 @@
+name: tornet_task
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.8
+  flutter_screenutil: ^5.9.3
+  flutter_animate: ^4.5.0
+  
+  # State Management
+  flutter_bloc: ^8.1.6
+  bloc: ^8.1.4
+  equatable: ^2.0.5
+  
+  # Dependency Injection
+  get_it: ^8.0.3
+  injectable: ^2.4.4
+  
+  # Network
+  dio: ^5.8.0+1
+  connectivity_plus: ^6.1.0
+  web_socket_channel: ^3.0.1
+  pusher_channels_flutter: ^2.2.1
+  
+  # Functional Programming
+  dartz: ^0.10.1
+  
+  # Local Storage
+  shared_preferences: ^2.3.3
+  
+  # Utilities
+  intl: ^0.19.0
+
+  # Routing
+  go_router: ^14.6.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Linting
+  flutter_lints: ^5.0.0
+  
+  # Code Generation
+  build_runner: ^2.4.13
+  injectable_generator: ^2.6.2
+  
+  # Testing
+  mockito: ^5.4.4
+  bloc_test: ^9.1.7
+
+
+flutter:
+  uses-material-design: true
+  generate: true  
+ 
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+
+
+
+fonts:
+  - family: ChakraPetch
+    fonts:
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-Light.ttf
+        weight: 300
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-LightItalic.ttf
+        weight: 300
+        style: italic
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-Regular.ttf
+        weight: 400
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-Italic.ttf
+        weight: 400
+        style: italic
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-Medium.ttf
+        weight: 500
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-MediumItalic.ttf
+        weight: 500
+        style: italic
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-SemiBold.ttf
+        weight: 600
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-SemiBoldItalic.ttf
+        weight: 600
+        style: italic
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-Bold.ttf
+        weight: 700
+      - asset: assets/fonts/Chakra Petch/ChakraPetch-BoldItalic.ttf
+        weight: 700
+        style: italic
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

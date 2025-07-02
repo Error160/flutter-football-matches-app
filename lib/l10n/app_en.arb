@@ -1,0 +1,390 @@
+{
+  "@@locale": "en",
+  
+  "appTitle": "Football Matches",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  
+  "home": "Home",
+  "@home": {
+    "description": "Home screen title"
+  },
+  
+  "noItemsFound": "No items found",
+  "@noItemsFound": {
+    "description": "Message shown when there are no items to display"
+  },
+  
+  "error": "Error",
+  "@error": {
+    "description": "Generic error message"
+  },
+  
+  "retry": "Try Again",
+  "@retry": {
+    "description": "Button text to retry an action"
+  },
+  
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+  
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit button text"
+  },
+  
+  "add": "Add",
+  "@add": {
+    "description": "Add button text"
+  },
+  
+  "active": "Active",
+  "@active": {
+    "description": "Active status"
+  },
+  
+  "inactive": "Inactive",
+  "@inactive": {
+    "description": "Inactive status"
+  },
+  
+  "justNow": "Just now",
+  "@justNow": {
+    "description": "Time indicator for very recent activity"
+  },
+  
+  "minutesAgo": "{count} minutes ago",
+  "@minutesAgo": {
+    "description": "Time indicator for activity that happened minutes ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  
+  "hoursAgo": "{count} hours ago",
+  "@hoursAgo": {
+    "description": "Time indicator for activity that happened hours ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  
+  "daysAgo": "{count} days ago",
+  "@daysAgo": {
+    "description": "Time indicator for activity that happened days ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  
+  "emailRequired": "Email is required",
+  "@emailRequired": {
+    "description": "Validation message for required email field"
+  },
+  
+  "passwordRequired": "Password is required",
+  "@passwordRequired": {
+    "description": "Validation message for required password field"
+  },
+  
+  "invalidEmail": "Please enter a valid email address",
+  "@invalidEmail": {
+    "description": "Validation message for invalid email format"
+  },
+  
+  "passwordTooShort": "Password must be at least 8 characters long",
+  "@passwordTooShort": {
+    "description": "Validation message for password length"
+  },
+  
+  "fieldRequired": "{fieldName} is required",
+  "@fieldRequired": {
+    "description": "Generic validation message for required fields",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Name"
+      }
+    }
+  },
+  
+  "refreshList": "Refresh list",
+  "@refreshList": {
+    "description": "Tooltip for refresh button"
+  },
+  
+  "addItem": "Add new item",
+  "@addItem": {
+    "description": "Tooltip for add button"
+  },
+  
+  "networkError": "No internet connection",
+  "@networkError": {
+    "description": "Error message for network connectivity issues"
+  },
+  
+  "serverError": "Server error occurred",
+  "@serverError": {
+    "description": "Error message for server issues"
+  },
+  
+  "unexpectedError": "An unexpected error occurred",
+  "@unexpectedError": {
+    "description": "Generic error message for unexpected errors"
+  },
+  
+  "refresh": "Refresh",
+  "@refresh": {
+    "description": "Refresh button text"
+  },
+  
+  "yesterday": "Yesterday",
+  "@yesterday": {
+    "description": "Yesterday tab label"
+  },
+  
+  "today": "Today",
+  "@today": {
+    "description": "Today tab label"
+  },
+  
+  "tomorrow": "Tomorrow",
+  "@tomorrow": {
+    "description": "Tomorrow tab label"
+  },
+  
+  "noMatches": "No matches available",
+  "@noMatches": {
+    "description": "Message shown when there are no matches to display"
+  },
+  
+  "errorOccurred": "Something went wrong",
+  "@errorOccurred": {
+    "description": "Generic error title"
+  },
+  
+  "matches": "Matches",
+  "@matches": {
+    "description": "Matches page title"
+  },
+  
+  "liveMatches": "Live Matches",
+  "@liveMatches": {
+    "description": "Live matches section title"
+  },
+  
+  "upcomingMatches": "Upcoming Matches",
+  "@upcomingMatches": {
+    "description": "Upcoming matches section title"
+  },
+  
+  "pastMatches": "Past Matches",
+  "@pastMatches": {
+    "description": "Past matches section title"
+  },
+  
+  "liveUpdates": "Live Updates",
+  "@liveUpdates": {
+    "description": "Live updates section title"
+  },
+  
+  "offline": "Offline",
+  "@offline": {
+    "description": "Offline status"
+  },
+  
+  "venue": "Venue",
+  "@venue": {
+    "description": "Venue field label"
+  },
+  
+  "matchWeek": "Match Week",
+  "@matchWeek": {
+    "description": "Match week field label"
+  },
+  
+  "fullTime": "Full Time",
+  "@fullTime": {
+    "description": "Full time field label"
+  },
+  
+  "halftimeScore": "Half Time",
+  "@halftimeScore": {
+    "description": "Half time field label"
+  },
+  
+  "penalties": "Penalties",
+  "@penalties": {
+    "description": "Penalties field label"
+  },
+  
+  "extraTime": "Extra Time",
+  "@extraTime": {
+    "description": "Extra time field label"
+  },
+  
+  "postponed": "Postponed",
+  "@postponed": {
+    "description": "Postponed status"
+  },
+  
+  "cancelled": "Cancelled",
+  "@cancelled": {
+    "description": "Cancelled status"
+  },
+  
+  "scheduled": "Scheduled",
+  "@scheduled": {
+    "description": "Scheduled status"
+  },
+  
+  "kickoff": "Kick-off",
+  "@kickoff": {
+    "description": "Kick-off field label"
+  },
+  
+  "minute": "Minute",
+  "@minute": {
+    "description": "Minute field label"
+  },
+  
+  "live": "LIVE",
+  "@live": {
+    "description": "LIVE status"
+  },
+  
+  "versus": "vs",
+  "@versus": {
+    "description": "Versus field label"
+  },
+
+  "matchStatusAbnormal": "Error",
+  "@matchStatusAbnormal": {
+    "description": "Match status: Abnormal (suggest hiding)"
+  },
+
+  "matchStatusNotStarted": "Not started",
+  "@matchStatusNotStarted": {
+    "description": "Match status: Not started"
+  },
+
+  "matchStatusFirstHalf": "1st Half",
+  "@matchStatusFirstHalf": {
+    "description": "Match status: First half"
+  },
+
+  "matchStatusFirstHalfWithMinute": "1st Half {minute}'",
+  "@matchStatusFirstHalfWithMinute": {
+    "description": "Match status: First half with minute",
+    "placeholders": {
+      "minute": {
+        "type": "int",
+        "example": "45"
+      }
+    }
+  },
+
+  "matchStatusHalfTime": "Half-time",
+  "@matchStatusHalfTime": {
+    "description": "Match status: Half-time"
+  },
+
+  "matchStatusSecondHalf": "2nd Half",
+  "@matchStatusSecondHalf": {
+    "description": "Match status: Second half"
+  },
+
+  "matchStatusSecondHalfWithMinute": "2nd Half {minute}'",
+  "@matchStatusSecondHalfWithMinute": {
+    "description": "Match status: Second half with minute",
+    "placeholders": {
+      "minute": {
+        "type": "int",
+        "example": "75"
+      }
+    }
+  },
+
+  "matchStatusOvertime": "Extra Time",
+  "@matchStatusOvertime": {
+    "description": "Match status: Overtime"
+  },
+
+  "matchStatusOvertimeWithMinute": "ET {minute}'",
+  "@matchStatusOvertimeWithMinute": {
+    "description": "Match status: Overtime with minute",
+    "placeholders": {
+      "minute": {
+        "type": "int",
+        "example": "105"
+      }
+    }
+  },
+
+  "matchStatusPenaltyShootout": "Penalties",
+  "@matchStatusPenaltyShootout": {
+    "description": "Match status: Penalty Shoot-out"
+  },
+
+  "matchStatusFinished": "Full Time",
+  "@matchStatusFinished": {
+    "description": "Match status: Finished"
+  },
+
+  "matchStatusDelayed": "Delayed",
+  "@matchStatusDelayed": {
+    "description": "Match status: Delayed"
+  },
+
+  "matchStatusInterrupted": "Interrupted",
+  "@matchStatusInterrupted": {
+    "description": "Match status: Interrupted"
+  },
+
+  "matchStatusCutInHalf": "Abandoned",
+  "@matchStatusCutInHalf": {
+    "description": "Match status: Cut in half"
+  },
+
+  "matchStatusCancelled": "Cancelled",
+  "@matchStatusCancelled": {
+    "description": "Match status: Cancelled"
+  },
+
+  "matchStatusToBeDetermined": "To be determined",
+  "@matchStatusToBeDetermined": {
+    "description": "Match status: To be determined"
+  }
+} 
